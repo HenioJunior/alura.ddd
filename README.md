@@ -10,7 +10,11 @@ O foco do DDD é o domínio da aplicação. Então nós precisamos pegar os term
 
  - Business invariant, é o nome técnico utilizado no mundo do Domain Driven Design, invariante de negócio. É uma validação, uma regra de negócio.
 
+ Ex: Se um aluno tiver mais do que 2 telefones em nosso sistema, essa regra foi violada, logo, o Aluno estará em um estado inválido. Invariantes nada mais são do que regras de negócio que precisam ser verificadas para garantir sua consistência.
+
  
+
+
 
 
 
