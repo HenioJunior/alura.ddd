@@ -12,7 +12,18 @@ O foco do DDD é o domínio da aplicação. Então nós precisamos pegar os term
 
  Ex: Se um aluno tiver mais do que 2 telefones em nosso sistema, essa regra foi violada, logo, o Aluno estará em um estado inválido. Invariantes nada mais são do que regras de negócio que precisam ser verificadas para garantir sua consistência.
 
+ `https://martinfowler.com/bliki/DDD_Aggregate.html`
+
+ 3. Eventos
+
+ - Trabalhando com eventos, o mesmo evento pode gerar várias ações, o que nos dá muita flexibilidade.
+
+ Ex: É muito comum isso quando temos um processo. Num site de compras online, você pode ter um processo de uma venda.
+ Então, sempre que um pedido é efetuado, você pode disparar um evento e várias ações são tomadas: uma emissão de nota fiscal, o processamento do pagamento, envio de e-mail de confirmação da compra, enfim, então essas são atividades que são disparadas sempre que o evento de um pedido novo é realizado.
+
  
+
+
 
 
 
