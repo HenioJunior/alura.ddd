@@ -1,7 +1,7 @@
 package br.com.escola.adademico;
 
 import br.com.escola.adademico.aplicacao.aluno.matricular.MatricularAlunoDto;
-import br.com.escola.adademico.dominio.PublicadorDeEventos;
+import br.com.escola.shared.dominio.evento.PublicadorDeEventos;
 import br.com.escola.adademico.dominio.aluno.LogDeAlunoMatriculado;
 import br.com.escola.adademico.infra.aluno.RepositorioDeAlunosEmMemoria;
 import br.com.escola.adademico.aplicacao.aluno.matricular.MatricularAluno;

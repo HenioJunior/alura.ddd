@@ -1,7 +1,7 @@
 package br.com.escola.adademico.infra.aluno;
 
 import br.com.escola.adademico.dominio.aluno.Aluno;
-import br.com.escola.adademico.dominio.aluno.CPF;
+import br.com.escola.shared.dominio.CPF;
 import br.com.escola.adademico.dominio.aluno.RepositorioDeAlunos;
 
 import java.util.ArrayList;

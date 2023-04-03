@@ -1,5 +1,7 @@
 package br.com.escola.adademico.dominio.aluno;
 
+import br.com.escola.shared.dominio.CPF;
+
 public class FabricaDeAluno {
 
     private Aluno aluno;

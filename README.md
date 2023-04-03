@@ -21,6 +21,17 @@ O foco do DDD é o domínio da aplicação. Então nós precisamos pegar os term
  Ex: É muito comum isso quando temos um processo. Num site de compras online, você pode ter um processo de uma venda.
  Então, sempre que um pedido é efetuado, você pode disparar um evento e várias ações são tomadas: uma emissão de nota fiscal, o processamento do pagamento, envio de e-mail de confirmação da compra, enfim, então essas são atividades que são disparadas sempre que o evento de um pedido novo é realizado.
 
+ 4. Bounded Contexts
+
+ Bounded Contexts, ou contextos delimitados, são um dos conceitos mais complexos de entender e implementar do estudo do DDD.
+ Vale a pena leituras mais aprofundadas para conhecer técnicas que envolvem esse princípio.
+
+ https://martinfowler.com/bliki/BoundedContext.html
+
+ 
+
+
+
  
 
 

@@ -1,7 +1,7 @@
 package br.com.escola.adademico.aplicacao.aluno.matricular;
 
 import br.com.escola.adademico.dominio.aluno.Aluno;
-import br.com.escola.adademico.dominio.aluno.CPF;
+import br.com.escola.shared.dominio.CPF;
 import br.com.escola.adademico.dominio.aluno.Email;
 
 public class MatricularAlunoDto {

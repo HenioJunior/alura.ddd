@@ -1,6 +1,7 @@
 package br.com.escola.adademico.infra.aluno;
 
 import br.com.escola.adademico.dominio.aluno.*;
+import br.com.escola.shared.dominio.CPF;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

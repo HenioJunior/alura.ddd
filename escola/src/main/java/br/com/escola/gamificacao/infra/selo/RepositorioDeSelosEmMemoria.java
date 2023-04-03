@@ -1,6 +1,6 @@
 package br.com.escola.gamificacao.infra.selo;
 
-import br.com.escola.adademico.dominio.aluno.CPF;
+import br.com.escola.shared.dominio.CPF;
 import br.com.escola.gamificacao.dominio.selo.RepositorioDeSelos;
 import br.com.escola.gamificacao.dominio.selo.Selo;
 

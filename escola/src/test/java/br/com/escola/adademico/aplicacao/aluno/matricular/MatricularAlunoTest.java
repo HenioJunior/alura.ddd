@@ -1,8 +1,8 @@
 package br.com.escola.adademico.aplicacao.aluno.matricular;
 
-import br.com.escola.adademico.dominio.PublicadorDeEventos;
+import br.com.escola.shared.dominio.evento.PublicadorDeEventos;
 import br.com.escola.adademico.dominio.aluno.Aluno;
-import br.com.escola.adademico.dominio.aluno.CPF;
+import br.com.escola.shared.dominio.CPF;
 import br.com.escola.adademico.dominio.aluno.LogDeAlunoMatriculado;
 import br.com.escola.adademico.infra.aluno.RepositorioDeAlunosEmMemoria;
 import org.junit.jupiter.api.Assertions;

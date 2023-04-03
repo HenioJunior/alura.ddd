@@ -1,5 +1,6 @@
 package br.com.escola.adademico.dominio.aluno;
 
+import br.com.escola.shared.dominio.CPF;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

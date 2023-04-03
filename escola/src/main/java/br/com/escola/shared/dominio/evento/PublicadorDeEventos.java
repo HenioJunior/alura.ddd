@@ -1,4 +1,4 @@
-package br.com.escola.adademico.dominio;
+package br.com.escola.shared.dominio.evento;
 
 import java.util.ArrayList;
 import java.util.List;
